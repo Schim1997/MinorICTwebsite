@@ -105,11 +105,7 @@ st.markdown("##")
 
 st.subheader("6. Presentaties")
 st.write("""
-In dit mapje staan de verschillende gemaakte opdrachten met betrekking tot de design thinking methode en de 
-verschillende fases daarin. Per onderdeel van de design thinking methode is er een apart mapje aangemaakt waarin al het \
-eerder gemaakte werkt terug te vinden is. Hier staan ook dingen in die we als opzet gebruikt hebben, maar later niks 
-mee gedaan hebben in ons eindverslag. Door het maken van deze opdrachten zijn we namelijk tot bepaalde inzichten gekomen
-die we anders wellicht niet hadden gehad. Om deze reden wilde we dat de bestanden terug te vinden waren in ons archief.
+In dit mapje staan de presentaties die wij tijdens dit project, hebben gebruikt.
 """)
 url = "[Presentaties](https://hogeschoolutrecht-my.sharepoint.com/personal/menno_zandvliet_student_hu_nl/_layouts/15" \
       "/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmenno_zandvliet_student_hu_nl%2FDocuments%2Fproject%20minor%20ICT%20" \
